@@ -1,0 +1,37 @@
+Nguoi ta thuong noi quoc gia nao la dat nuoc mat troi moc,Thai Lan,Han Quoc,Trung Quoc,Nhat Ban,4
+Dau la mot dong tu,Mai,Dao,Cuc,Lan,2
+Ngon nui nao cao nhat Nhat Ban,Phu Si,Fansipan,Everrest,K2,1
+Ngon nui cao nhat the gioi,Phu Si,Fansipan,Everrest,K2,3
+Purple trong tieng anh co nghia la mau gi,Do,Xanh,Tim,Hong,3
+Sat trong tieng anh co nghia la thu may trong tuan,Thu ba,Thu nam,Thu sau,Thu bay,4
+Manh vi...Bao vi tien,Gao,Lua,Thit,Chao,1
+Cay ngay khong so...,Set danh,Chet dung,Chet heo,Gio lon,2
+Thang Long Ha Noi 1000 tuoi vao nam nao,2010,2011,2009,2015,1
+Ten vu khi tho dan Uc co kha nang bay lai ve vi tri cu,Dao,Bua,Bomerang,Phi tieu,3
+Bien nao co nong do muoi lon nhat the gioi,Bien Dong,Bien Caribe,Bien Do,Bien chet,4
+Dat nuoc nao la que huong cua ong gia tuyet,Sibeia,Phan Lan,Nga,Anh,2
+Phim hoat hinh dau tien duoc cong chieu vao thoi gian nao,28-10-1892,21-3-2002,27-3-1871,25-6-1887,1
+Chien dich dien bien phu thang loi vao nam nao?,1945,1954,1969,1975,2
+Bon con rong kinh te chau a bao gom Dai Loan Hong Kong Singapore va ...?,Viet Nam,Trung Quoc,Han Quoc,Thai Lan,3
+Nen kinh te so 1 the gioi hien nay la quoc gia nao?,My,Nhat Ban,Nga,Trung Quoc,1
+Thu mon doi nao gianh "Gang tay vang" ta Ngoai Hang Anh mua giai 2017-2018,Liverpool,Chelsea,Manchester United,Tottenham,3
+Trong don vi do dien tich co Bac Bo Viet Nam don vi nao lon nhat,Mau,Mieng,Sao,Khau,1
+Qua la bieu tuong cua quoc gia nao,Qatar,An do,Bhutan,Bangladesh,3
+Dau la ten tro choi co ban quyen tac gi nguoi Viet Nam,Co bo truong, Co tu lenh,Co chinh uy,Co chu tich,2
+"Ngoi nha cua nang Juliet" nam o thanh pho nao cua Italia,Bologna,Napoli,Verona,Catania,3
+Xe buyt do 2 tang bieu tuong cua thanh pho nao,Manchester United,London,Liverpool,Bristol,2
+Tinh nao o nuoc ta co duong bien gioi Lao va Campuchia,Kontum,Gia Lai,DakLak,Binh Phuoc,1
+Ten viet tat lien minh Chau Phi la,AU,EU,PI,Asia,1
+O nuoc ta ai duoc menh danh ong hoang tho tinh,Xuan Dieu,Che Lan Vien,Mac Han Tu,Huy Can,1
+Trong bai ca dao "con meo ma treo cay cau", chon chuot da di mua cai gi?,Mua do an,Mua mam, mua muoi,Mua nuoc uong,Mua quan ao,2
+Hien tuong ngay/dem tren Trai Dat la do...?,Mat troi quay xung quanh Trai Dat,Trong he mat troi,Trai Dat hinh cau va co chuyen dong tu quay,Trai Dat quay xung quanh Mat Troi,3
+Kieu du lieu toi uu nhat trong mon hoc "Cau truc du lieu va giai thuat" la?,Cay nhi phan can bang,Cay nhi phan tim kiem,Mang,Danh sach lien ket don,1
+APEC la tu viet tat cua to chuc lien ket kinh te cua khu vuc nao?,Chau Au,Bac My,Chau A - Thai Binh Duong,Dong Nam A,3
+Chi so phat trien con nguoi la?,GDP,FDI,FED,HDI,4
+
+
+
+
+
+
+
